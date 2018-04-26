@@ -1,0 +1,9 @@
+C:\vs project\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.exe.config
+C:\vs project\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.exe
+C:\vs project\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.pdb
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.csprojResolveAssemblyReference.cache
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.Form1.resources
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.Properties.Resources.resources
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.csproj.GenerateResource.Cache
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.exe
+C:\vs project\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.pdb
